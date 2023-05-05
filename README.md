@@ -1,7 +1,9 @@
 # tableau_challenge
 
+Author: Drew Barnhart
+
 link to Tableau Public (Below)
-https://public.tableau.com/shared/ZDRSSBK3B?:display_count=n&amp;:origin=viz_share_link
+- https://public.tableau.com/shared/ZDRSSBK3B?:display_count=n&amp;:origin=viz_share_link
 
 
 Within this challenge the aspiration was to take on the role of a data analyst for the CitiBike company within Jersey City, NJ and create a story to display the Ciibike data in a user friendly and visually appealing manner. The data used was found at the following web page: https://citibikenyc.com/system-data
